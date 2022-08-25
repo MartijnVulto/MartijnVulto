@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm an entrepreneur, digital marketer, and data analyst. To find out more about me, visit my [website](https://www.martijnvulto.com/) or follow me on [LinkedIn](https://www.linkedin.com/in/martijnvulto/).
+
+I occasionally use GitHub to store bits of code, but as coding is not the main part of my work, don't expect to find too much here.
+
 <!--
 **MartijnVulto/MartijnVulto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
